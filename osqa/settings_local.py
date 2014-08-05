@@ -70,7 +70,7 @@ SESSION_ENGINE = 'django.contrib.sessions.backends.db'
 APP_URL = 'http://sitw-qa.herokuapp.com'
 
 #LOCALIZATIONS
-TIME_ZONE = 'Taiwan/Taipei'
+TIME_ZONE = 'America/New_York'
 
 #OTHER SETTINGS
 
